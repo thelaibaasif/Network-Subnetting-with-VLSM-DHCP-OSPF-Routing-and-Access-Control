@@ -60,7 +60,7 @@ This project uses VLSM for efficient IP allocation across three subnets with DHC
 ### Getting Started
 1. Clone this repository:
     ```bash
-    [git clone https://github.com/your-username/network-subnetting-vlsm-dhcp-ospf-acl.git](https://github.com/thelaibaasif/Network-Subnetting-with-VLSM-DHCP-OSPF-Routing-and-Access-Control/
+    [git clone https://github.com/thelaibaasif/Network-Subnetting-with-VLSM-DHCP-OSPF-Routing-and-Access-Control/
     ```
 2. Follow the steps in the `Implementation Details` section to set up the network.
 3. Verify the network setup by testing IP allocation, routing between subnets, and access control.
